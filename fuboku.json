@@ -775,7 +775,7 @@
    "bu": "",
    "dai": "朔日",
    "kotobagaki": "二條大皇大后宮風後",
-   "author": "二條大皇大后宮肥後",
+   "author": "二條大皇大后宮風後",
    "author_ocr": "二條大皇大后宮風後",
    "author_resolved": "",
    "shuttei": "",
@@ -3264,7 +3264,7 @@
    "bu": "",
    "dai": "卯日",
    "kotobagaki": "卵杖を家集初卵日",
-   "author": "俊子",
+   "author": "俊賴朝臣",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -10875,7 +10875,7 @@
    "bu": "春部二",
    "dai": "春雪",
    "kotobagaki": "光明峯寺入道攝政家百首",
-   "author": "",
+   "author": "皇后宮",
    "author_ocr": "皇太后宮肥",
    "author_resolved": "",
    "shuttei": "",
@@ -12680,7 +12680,7 @@
    "bu": "春部三",
    "dai": "梅",
    "kotobagaki": "布引百首御歌イ",
-   "author": "",
+   "author": "俊成痛",
    "author_ocr": "俊成痛",
    "author_resolved": "",
    "shuttei": "",
@@ -18703,7 +18703,7 @@
    "bu": "春部三",
    "dai": "駒春",
    "kotobagaki": "",
-   "author": "皇后宮甲麥",
+   "author": "皇后宮",
    "author_ocr": "皇后宮甲麥家集",
    "author_resolved": "",
    "shuttei": "",
@@ -26772,7 +26772,7 @@
    "bu": "春部四",
    "dai": "花",
    "kotobagaki": "ふを人のもて",
-   "author": "權中納言定賴卿",
+   "author": "権中納言定賴卿",
    "author_ocr": "権中納言定賴卿",
    "author_resolved": "",
    "shuttei": "",
@@ -26793,7 +26793,7 @@
    "kotobagaki": "春歌中ゑじまを",
    "author": "同",
    "author_ocr": "同",
-   "author_resolved": "權中納言定賴卿",
+   "author_resolved": "権中納言定賴卿",
    "shuttei": "",
    "text": "もしほくさかきあつめたる給島にははなさくはるそ色は取ける",
    "sachu": "",
@@ -29831,7 +29831,7 @@
    "bu": "春部五",
    "dai": "歸鴈",
    "kotobagaki": "天仁二年十一月顯〓家歌",
-   "author": "琳賢法師",
+   "author": "賢法琳師",
    "author_ocr": "賢法琳師",
    "author_resolved": "",
    "shuttei": "",
@@ -51437,7 +51437,7 @@
    "bu": "夏部二",
    "dai": "公郭",
    "kotobagaki": "千五百番歌合",
-   "author": "琳賢法師",
+   "author": "賢法師琳",
    "author_ocr": "賢法師琳",
    "author_resolved": "",
    "shuttei": "",
@@ -52577,7 +52577,7 @@
    "bu": "夏部二",
    "dai": "公郭",
    "kotobagaki": "中務卿親王家歌合水域郭",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -52617,7 +52617,7 @@
    "kotobagaki": "中務卿親王家歌合水域郭",
    "author": "同",
    "author_ocr": "同",
-   "author_resolved": "俊子",
+   "author_resolved": "從二位家隆卿",
    "shuttei": "",
    "text": "あさねかみゆふのみ山のほとゝきすはやうちとけぬ思ひ亂れて",
    "sachu": "",
@@ -52636,7 +52636,7 @@
    "kotobagaki": "中務卿親王家歌合水域郭",
    "author": "同",
    "author_ocr": "同",
-   "author_resolved": "俊子",
+   "author_resolved": "從二位家隆卿",
    "shuttei": "",
    "text": "ほとゝきすすゑの松山かせふけは浪こすくれにたちゐなくなり",
    "sachu": "",
@@ -62837,7 +62837,7 @@
    "bu": "夏部三",
    "dai": "扇",
    "kotobagaki": "",
-   "author": "六條院大進",
+   "author": "院條六大進",
    "author_ocr": "院條六大進",
    "author_resolved": "",
    "shuttei": "",
@@ -64222,7 +64222,7 @@
    "bu": "夏部三",
    "dai": "瓜",
    "kotobagaki": "",
-   "author": "權中納言定賴卿",
+   "author": "權中納言定、賴卿",
    "author_ocr": "權中納言定、賴卿",
    "author_resolved": "",
    "shuttei": "",
@@ -65248,7 +65248,7 @@
    "bu": "夏部三",
    "dai": "菱",
    "kotobagaki": "",
-   "author": "",
+   "author": "俊成痛",
    "author_ocr": "俊成痛",
    "author_resolved": "",
    "shuttei": "",
@@ -85437,7 +85437,7 @@
    "bu": "秋部三",
    "dai": "萩山",
    "kotobagaki": "建長三年毎日一首中",
-   "author": "中納言國信卿",
+   "author": "",
    "author_ocr": "中納言國信",
    "author_resolved": "",
    "shuttei": "",
@@ -111438,7 +111438,7 @@
    "bu": "秋部六",
    "dai": "柞",
    "kotobagaki": "御集林葉",
-   "author": "式部卿宇合",
+   "author": "卿宇合式部",
    "author_ocr": "卿宇合式部",
    "author_resolved": "",
    "shuttei": "",
@@ -122131,7 +122131,7 @@
    "bu": "冬部",
    "dai": "冬雨",
    "kotobagaki": "",
-   "author": "",
+   "author": "權中納言經定卿",
    "author_ocr": "權中納言經定卿",
    "author_resolved": "",
    "shuttei": "",
@@ -122171,7 +122171,7 @@
    "kotobagaki": "弘長三年毎日一首中",
    "author": "同",
    "author_ocr": "同",
-   "author_resolved": "宜秋門院丹後",
+   "author_resolved": "權中納言經定卿",
    "shuttei": "",
    "text": "ふるあめの雪になり行く冬の雲あらしやそらに吹きこほるらん",
    "sachu": "",
@@ -122190,7 +122190,7 @@
    "kotobagaki": "文水五年每日一首中",
    "author": "同",
    "author_ocr": "同",
-   "author_resolved": "宜秋門院丹後",
+   "author_resolved": "權中納言經定卿",
    "shuttei": "",
    "text": "ふる雨の音玄つかなる冬の夜にゆふやみふくるかねそきこゆる",
    "sachu": "",
@@ -128530,7 +128530,7 @@
    "bu": "冬部二",
    "dai": "水鳥",
    "kotobagaki": "六粘題水島",
-   "author": "志貴皇子",
+   "author": "貴皇子志",
    "author_ocr": "貴皇子志",
    "author_resolved": "",
    "shuttei": "",
@@ -137403,7 +137403,7 @@
    "bu": "冬部三",
    "dai": "神樂",
    "kotobagaki": "文應元年七社百首神樂〔新拾遺神祇〕",
-   "author": "俊子",
+   "author": "俊賴朝臣",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "新拾遺神祇",
@@ -152718,7 +152718,7 @@
    "bu": "雜部二",
    "dai": "かくれの山",
    "kotobagaki": "最勝四天王院名所御障子",
-   "author": "",
+   "author": "二條太皇太后宮肥後",
    "author_ocr": "二條太皇大后宮肥後",
    "author_resolved": "",
    "shuttei": "",
@@ -152737,7 +152737,7 @@
    "bu": "雜部二",
    "dai": "かくれの山",
    "kotobagaki": "最勝四天王院名所御障子",
-   "author": "",
+   "author": "邊福丸",
    "author_ocr": "邊福丸",
    "author_resolved": "",
    "shuttei": "",
@@ -155860,7 +155860,7 @@
    "bu": "雜部二",
    "dai": "うへかた山",
    "kotobagaki": "題不知",
-   "author": "",
+   "author": "能因法師",
    "author_ocr": "師",
    "author_resolved": "",
    "shuttei": "",
@@ -159063,7 +159063,7 @@
    "bu": "雜部二",
    "dai": "こま山",
    "kotobagaki": "題不知",
-   "author": "",
+   "author": "田邊福",
    "author_ocr": "田邊福",
    "author_resolved": "",
    "shuttei": "",
@@ -160697,7 +160697,7 @@
    "bu": "雜部二",
    "dai": "あさ日山",
    "kotobagaki": "長承三年九月顯輔〓家歌合紅葉",
-   "author": "琳賢法師",
+   "author": "法師琳賢",
    "author_ocr": "法師琳賢",
    "author_resolved": "",
    "shuttei": "",
@@ -163408,7 +163408,7 @@
    "bu": "雜部二",
    "dai": "ははつ山",
    "kotobagaki": "",
-   "author": "高市黒人",
+   "author": "高市速黒人",
    "author_ocr": "高市速黒人旅",
    "author_resolved": "",
    "shuttei": "",
@@ -163617,7 +163617,7 @@
    "bu": "雜部二",
    "dai": "志とみ山",
    "kotobagaki": "",
-   "author": "俊子",
+   "author": "俊賴朝臣",
    "author_ocr": "俊賴家集",
    "author_resolved": "",
    "shuttei": "",
@@ -171439,7 +171439,7 @@
    "bu": "雜部三",
    "dai": "路",
    "kotobagaki": "旋頭歌〔萬十一〕",
-   "author": "高市黒人",
+   "author": "高黒人市",
    "author_ocr": "高黒人市",
    "author_resolved": "",
    "shuttei": "萬十一",
@@ -171479,7 +171479,7 @@
    "kotobagaki": "題不知(とよはつせぢ)",
    "author": "同",
    "author_ocr": "同",
-   "author_resolved": "高市黒人",
+   "author_resolved": "高黒人市",
    "shuttei": "",
    "text": "こもりくの豐はつせちはとこなめのかしこき道を戀らくはゆめ",
    "sachu": "",
@@ -177849,7 +177849,7 @@
    "bu": "雜部四",
    "dai": "長歌",
    "kotobagaki": "久應元年毎日一首中〔萬三新村振〕",
-   "author": "高市黒人",
+   "author": "高市連黒人",
    "author_ocr": "高市連黒人",
    "author_resolved": "",
    "shuttei": "萬三新村振",
@@ -179878,7 +179878,7 @@
    "bu": "雜部四",
    "dai": "長歌",
    "kotobagaki": "(衣てのをの、山",
-   "author": "後光明峰寺攝政",
+   "author": "後光明峯寺攝政",
    "author_ocr": "後光明峯寺攝政",
    "author_resolved": "",
    "shuttei": "",
@@ -186928,7 +186928,7 @@
    "bu": "雜部四",
    "dai": "馬",
    "kotobagaki": "",
-   "author": "高市黒人",
+   "author": "高黒市速人",
    "author_ocr": "高黒市速人覇旅",
    "author_resolved": "",
    "shuttei": "",
@@ -190323,7 +190323,7 @@
    "bu": "雜部五",
    "dai": "たこの入海",
    "kotobagaki": "越中國歌",
-   "author": "田邊福丸",
+   "author": "田福丸邊",
    "author_ocr": "田福丸邊",
    "author_resolved": "",
    "shuttei": "",
@@ -190811,7 +190811,7 @@
    "bu": "雜部五",
    "dai": "たこの入海",
    "kotobagaki": "題不知〔萬十三〕",
-   "author": "俊子",
+   "author": "俊賴朝臣",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "萬十三",
@@ -192631,7 +192631,7 @@
    "bu": "雜部五",
    "dai": "いはきのしま",
    "kotobagaki": "題不知",
-   "author": "式部卿宇合",
+   "author": "式部卿合宇",
    "author_ocr": "式部卿合宇",
    "author_resolved": "",
    "shuttei": "",
@@ -193085,7 +193085,7 @@
    "bu": "雜部五",
    "dai": "かさまの嶋さはのミほり",
    "kotobagaki": "柿本影供百首",
-   "author": "",
+   "author": "式部宇合痴",
    "author_ocr": "式部宇合痴",
    "author_resolved": "",
    "shuttei": "",
@@ -196115,7 +196115,7 @@
    "bu": "雜部五",
    "dai": "澳",
    "kotobagaki": "述仁元年十首歌合湖上暁",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -197027,7 +197027,7 @@
    "bu": "雜部五",
    "dai": "江",
    "kotobagaki": "洞院攝政家百首",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -198334,7 +198334,7 @@
    "bu": "雜部五",
    "dai": "池",
    "kotobagaki": "百首歌",
-   "author": "六條院大進",
+   "author": "人家六大進院條",
    "author_ocr": "人家六大進院條",
    "author_resolved": "",
    "shuttei": "",
@@ -198505,7 +198505,7 @@
    "bu": "雜部五",
    "dai": "池",
    "kotobagaki": "貞應三年百首古池葛蒲〔六帖〕",
-   "author": "",
+   "author": "智法師經",
    "author_ocr": "智法師經",
    "author_resolved": "",
    "shuttei": "六帖",
@@ -213723,7 +213723,7 @@
    "bu": "雜部七",
    "dai": "浦",
    "kotobagaki": "題不知",
-   "author": "俊子",
+   "author": "俊賴朝臣",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -213797,7 +213797,7 @@
    "bu": "雜部七",
    "dai": "浦",
    "kotobagaki": "天平廿年正月廿五日ふせの水うみにて作歌",
-   "author": "田邊福丸",
+   "author": "円邊福丸",
    "author_ocr": "円邊福丸",
    "author_resolved": "",
    "shuttei": "",
@@ -215355,7 +215355,7 @@
    "bu": "雜部七",
    "dai": "浦",
    "kotobagaki": "建保三年名所百首",
-   "author": "",
+   "author": "仲卿擧",
    "author_ocr": "仲卿擧",
    "author_resolved": "",
    "shuttei": "",
@@ -217519,7 +217519,7 @@
    "bu": "雜部七",
    "dai": "濱",
    "kotobagaki": "",
-   "author": "兼仲卿",
+   "author": "",
    "author_ocr": "兼家集",
    "author_resolved": "",
    "shuttei": "",
@@ -228485,7 +228485,7 @@
    "bu": "雜部八",
    "dai": "瀧",
    "kotobagaki": "御たけに詣とて吉野川のほとりにて",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -232874,7 +232874,7 @@
    "bu": "雜部九",
    "dai": "鶏",
    "kotobagaki": "永久四年百首水うみ",
-   "author": "二條大皇大后宮肥後",
+   "author": "二條大島大后宮肥後",
    "author_ocr": "二條大島大后宮肥後",
    "author_resolved": "",
    "shuttei": "",
@@ -236307,7 +236307,7 @@
    "bu": "雜部九",
    "dai": "鷹",
    "kotobagaki": "よべどかへらぬ戀",
-   "author": "",
+   "author": "高光",
    "author_ocr": "俊光",
    "author_resolved": "",
    "shuttei": "",
@@ -241855,7 +241855,7 @@
    "bu": "雜部九",
    "dai": "梅花貝",
    "kotobagaki": "人のもとより貝なこひて侍けるをつかはすとて",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -258504,7 +258504,7 @@
    "bu": "",
    "dai": "柏",
    "kotobagaki": "山雪を〔新六六〕",
-   "author": "",
+   "author": "光明峰寺入道攝政",
    "author_ocr": "後光明峰寺入道攝政",
    "author_resolved": "",
    "shuttei": "新六六",
@@ -262391,7 +262391,7 @@
    "bu": "",
    "dai": "都",
    "kotobagaki": "",
-   "author": "式部卿宇合",
+   "author": "式部卿字合",
    "author_ocr": "式部卿字合長狀",
    "author_resolved": "",
    "shuttei": "",
@@ -264967,7 +264967,7 @@
    "bu": "",
    "dai": "廬",
    "kotobagaki": "嘉應二年住吉社歌合旅宿時雨",
-   "author": "智海法師",
+   "author": "智経法師",
    "author_ocr": "智経法師",
    "author_resolved": "",
    "shuttei": "",
@@ -269523,7 +269523,7 @@
    "bu": "雜部十三",
    "dai": "ちくらのさと",
    "kotobagaki": "御集由家卵花、",
-   "author": "俊子",
+   "author": "俊賴朝臣",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -271896,7 +271896,7 @@
    "bu": "雜部十三",
    "dai": "のさと",
    "kotobagaki": "弘長四年每日百首中",
-   "author": "智海法師",
+   "author": "智經法師",
    "author_ocr": "智經法師",
    "author_resolved": "",
    "shuttei": "",
@@ -272751,7 +272751,7 @@
    "bu": "雜部十三",
    "dai": "あしやの",
    "kotobagaki": "",
-   "author": "琳賢法師",
+   "author": "賢法師琳",
    "author_ocr": "賢法師琳同",
    "author_resolved": "",
    "shuttei": "",
@@ -273378,7 +273378,7 @@
    "bu": "雜部十三",
    "dai": "志ほのやの里",
    "kotobagaki": "題不知、",
-   "author": "",
+   "author": "二條太皇太后宮肥後",
    "author_ocr": "二條太皇大后宮肥後",
    "author_resolved": "",
    "shuttei": "",
@@ -273435,7 +273435,7 @@
    "bu": "雜部十三",
    "dai": "ふみつの里",
    "kotobagaki": "",
-   "author": "",
+   "author": "二條太皇太后宮肥後",
    "author_ocr": "二條太皇大后宮肥後",
    "author_resolved": "",
    "shuttei": "",
@@ -273454,7 +273454,7 @@
    "bu": "雜部十三",
    "dai": "ふみつの里",
    "kotobagaki": "",
-   "author": "六條院大進",
+   "author": "二條院大進",
    "author_ocr": "二條院大進",
    "author_resolved": "",
    "shuttei": "",
@@ -275124,7 +275124,7 @@
    "bu": "雜部十三",
    "dai": "花、玉の庭",
    "kotobagaki": "題不知",
-   "author": "",
+   "author": "仲顯卿",
    "author_ocr": "仲顯卿",
    "author_resolved": "",
    "shuttei": "",
@@ -276150,7 +276150,7 @@
    "bu": "雜部十三",
    "dai": "眞木の板月",
    "kotobagaki": "修理大夫顯季。家にて曉水〓、くろどの御戶",
-   "author": "權中納言定賴卿",
+   "author": "",
    "author_ocr": "權中納言定賴〓",
    "author_resolved": "",
    "shuttei": "",
@@ -276815,7 +276815,7 @@
    "bu": "雜部十三",
    "dai": "墻",
    "kotobagaki": "",
-   "author": "",
+   "author": "二條太皇太后宮肥後",
    "author_ocr": "二條太皇大后宮肥後散木",
    "author_resolved": "",
    "shuttei": "",
@@ -279492,7 +279492,7 @@
    "bu": "雜部十四",
    "dai": "弓",
    "kotobagaki": "天仁元年顯季〓家歌合",
-   "author": "",
+   "author": "師法賢林",
    "author_ocr": "師法賢林",
    "author_resolved": "",
    "shuttei": "",
@@ -280024,7 +280024,7 @@
    "bu": "雜部十四",
    "dai": "膝行",
    "kotobagaki": "",
-   "author": "六條院大進",
+   "author": "ニ條院大進",
    "author_ocr": "ニ條院大進返事",
    "author_resolved": "",
    "shuttei": "",
@@ -291499,7 +291499,7 @@
    "bu": "雜部十五",
    "dai": "船",
    "kotobagaki": "家集つくしにて歌よみけるにつく〓〓し",
-   "author": "高市黒人",
+   "author": "",
    "author_ocr": "人",
    "author_resolved": "",
    "shuttei": "",
@@ -293093,7 +293093,7 @@
    "bu": "雜部十五",
    "dai": "ちびきのつな",
    "kotobagaki": "堀河院御時百首",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -299410,7 +299410,7 @@
    "bu": "雜部十六",
    "dai": "釋",
    "kotobagaki": "深入禪定見十方佛",
-   "author": "",
+   "author": "俊成痛",
    "author_ocr": "俊成痛",
    "author_resolved": "",
    "shuttei": "",
@@ -301063,7 +301063,7 @@
    "bu": "雜部十六",
    "dai": "釋",
    "kotobagaki": "百首御歌",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -301084,7 +301084,7 @@
    "kotobagaki": "靈眞子十五番歌合",
    "author": "同",
    "author_ocr": "同",
-   "author_resolved": "俊子",
+   "author_resolved": "他阿上人",
    "shuttei": "",
    "text": "うらめしくこきはなれぬるうき舟をのりの筏とたのみけるかな",
    "sachu": "",
@@ -301103,7 +301103,7 @@
    "kotobagaki": "靈眞子十五番歌合",
    "author": "同",
    "author_ocr": "同",
-   "author_resolved": "俊子",
+   "author_resolved": "他阿上人",
    "shuttei": "",
    "text": "曇なきるりのとひらにさく花は遲れぬかけのいろにそありける",
    "sachu": "此歌はすぎにけん世のつみのほどもおしはかられていまもいかゞとあはれにてと云々",
@@ -301141,7 +301141,7 @@
    "kotobagaki": "靈眞子十五番歌合",
    "author": "同",
    "author_ocr": "同",
-   "author_resolved": "俊子",
+   "author_resolved": "他阿上人",
    "shuttei": "",
    "text": "三業を口業はかりはかきつくるいまふたつをはきみそ玄るらん",
    "sachu": "",
@@ -301804,7 +301804,7 @@
    "bu": "雜部十六",
    "dai": "釋",
    "kotobagaki": "佛の迎を待心を",
-   "author": "古來歌",
+   "author": "古今歌",
    "author_ocr": "古今歌",
    "author_resolved": "",
    "shuttei": "",
@@ -305730,7 +305730,7 @@
    "bu": "",
    "dai": "翁",
    "kotobagaki": "堀河院御時百首野",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -306243,7 +306243,7 @@
    "bu": "",
    "dai": "優婆塞",
    "kotobagaki": "三百六十首中〔新六四〕",
-   "author": "",
+   "author": "高光",
    "author_ocr": "俊光",
    "author_resolved": "",
    "shuttei": "新六四",
@@ -308745,7 +308745,7 @@
    "bu": "",
    "dai": "傀儡",
    "kotobagaki": "六百番歌合寄使出戀",
-   "author": "兼仲卿",
+   "author": "兼宗卿",
    "author_ocr": "兼宗卿",
    "author_resolved": "",
    "shuttei": "",
@@ -309676,7 +309676,7 @@
    "bu": "",
    "dai": "垂髮子",
    "kotobagaki": "たはれ歌とてよみける中",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -309790,7 +309790,7 @@
    "bu": "",
    "dai": "人唐",
    "kotobagaki": "最勝四天王院名所御障子",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -311348,7 +311348,7 @@
    "bu": "雜部十八",
    "dai": "賀",
    "kotobagaki": "中納言雅忠卿家歌合",
-   "author": "俊子",
+   "author": "",
    "author_ocr": "俊賴",
    "author_resolved": "",
    "shuttei": "",
@@ -312277,7 +312277,7 @@
    "bu": "雜部十八",
    "dai": "長歌",
    "kotobagaki": "遺保三年秋十五首歌合秋",
-   "author": "",
+   "author": "高光",
    "author_ocr": "俊光",
    "author_resolved": "",
    "shuttei": "",
@@ -322490,11 +322490,6 @@
    "text": "雪消ねひら山おろしなほさえてかすみにこほる玄かの"
   },
   {
-   "id": "fuboku-000572",
-   "author_ocr": "皇太后宮肥",
-   "text": "春なれと雪ふるとしのけをちかみをのゝすみかま猶や"
-  },
-  {
    "id": "fuboku-000575",
    "author_ocr": "大納信卿經",
    "text": "春もみるみむろのあたりけを寒みこやくるすのゝ雪の"
@@ -322583,11 +322578,6 @@
    "id": "fuboku-000659",
    "author_ocr": "",
    "text": "風ましり雪はふれとも見になさす我いへの梅をはなよ"
-  },
-  {
-   "id": "fuboku-000667",
-   "author_ocr": "俊成痛",
-   "text": "一木たに匂ひはとほしもろこしのうめさく嶺をおもひ"
   },
   {
    "id": "fuboku-000669",
@@ -325095,6 +325085,11 @@
    "text": "みしまえやあしのかりねのみしか夜にきくもほとなき"
   },
   {
+   "id": "fuboku-002768",
+   "author_ocr": "俊賴",
+   "text": "ほとゝきす待しわたらはやつ橋のくもそのかすに聲を"
+  },
+  {
    "id": "fuboku-002769",
    "author_ocr": "",
    "text": "ほとゝきすなくねのかけしうつらねは鏡の山もかひな"
@@ -325638,11 +325633,6 @@
    "id": "fuboku-003434",
    "author_ocr": "人ヒ知不",
    "text": "君かためうきねの池に菱とるとわかそめしそてぬれに"
-  },
-  {
-   "id": "fuboku-003435",
-   "author_ocr": "俊成痛",
-   "text": "すゝしやとうきねの池に袖ぬれでひしとりすさひくら"
   },
   {
    "id": "fuboku-003439",
@@ -326938,6 +326928,11 @@
    "id": "fuboku-004496",
    "author_ocr": "條院大進",
    "text": "をの山にあさたつ玄かも聲たてゝ秋のあはれは玄のは"
+  },
+  {
+   "id": "fuboku-004498",
+   "author_ocr": "中納言國信",
+   "text": "妻こふととこの山なるさをしかのひとりねをなく聲そ"
   },
   {
    "id": "fuboku-004501",
@@ -329725,11 +329720,6 @@
    "text": "行水のあさせこほれるなかき夜にむすほヽれたる月の"
   },
   {
-   "id": "fuboku-006430",
-   "author_ocr": "權中納言經定卿",
-   "text": "よも山のまつの葉ことにおくつゆの皆かすみゆる冬の"
-  },
-  {
    "id": "fuboku-006431",
    "author_ocr": "民爲家部〓",
    "text": "冬の雨の名殘のきりはあけ過きてくもらぬそらにのこ"
@@ -331960,16 +331950,6 @@
    "text": "わひ人のなみたのあめはあらしかしかさきのやまの法"
   },
   {
-   "id": "fuboku-008041",
-   "author_ocr": "二條太皇大后宮肥後",
-   "text": "小夜更てかたひら山のほとゝきすひとりねさめの友と"
-  },
-  {
-   "id": "fuboku-008042",
-   "author_ocr": "邊福丸",
-   "text": "かせのやま木立をゑけみ朝さらす來なきとよますうく"
-  },
-  {
    "id": "fuboku-008043",
    "author_ocr": "",
    "text": "少女子かうみをかくてふかせの山時のゆけれはみやこ"
@@ -332245,11 +332225,6 @@
    "text": "たか玄まやうへかた山のもみち葉を吹なちらしそ沖つ"
   },
   {
-   "id": "fuboku-008207",
-   "author_ocr": "師",
-   "text": "たがえまのうへかた山はくれなゐのや之はの色に或に"
-  },
-  {
    "id": "fuboku-008208",
    "author_ocr": "",
    "text": "夕霧はたつをみましやうりふ山こまほしかりしわたり"
@@ -332438,11 +332413,6 @@
    "id": "fuboku-008363",
    "author_ocr": "正三位季經〓夏放",
    "text": "かみかきにかくるあふひの二葉やまいくとせ袖の露は"
-  },
-  {
-   "id": "fuboku-008376",
-   "author_ocr": "田邊福",
-   "text": "こま山に啼ほとゝきすいつみかは渡りをとほみこゝに"
   },
   {
    "id": "fuboku-008384",
@@ -334285,11 +334255,6 @@
    "text": "ゆふなみのかけてそこふるかみしまやいそまの浦に衣"
   },
   {
-   "id": "fuboku-010170",
-   "author_ocr": "式部宇合痴",
-   "text": "あがつきの夢に見えつゝかちしまの岩こす浪の云うて"
-  },
-  {
    "id": "fuboku-010173",
    "author_ocr": "大臣",
    "text": "たつねきてたゝくり返しかくら嶋いはゝやものを浪は"
@@ -334630,6 +334595,11 @@
    "text": "霞たつ難波のおきのあさほらけかくこそは見めはるの"
   },
   {
+   "id": "fuboku-010330",
+   "author_ocr": "俊賴",
+   "text": "なこの浦浪たに今朝ははけしきにいかになるとの沖さ"
+  },
+  {
    "id": "fuboku-010331",
    "author_ocr": "",
    "text": "わか戀はみしまか沖にこきいてゝなころわつらふ海士"
@@ -334773,6 +334743,11 @@
    "id": "fuboku-010377",
    "author_ocr": "",
    "text": "ちきりをや玉江の水にむすふらんかへらぬ雁のこゑき"
+  },
+  {
+   "id": "fuboku-010378",
+   "author_ocr": "俊賴",
+   "text": "噸のゐる玉江におふる花かつみかつよみなから主らぬ"
   },
   {
    "id": "fuboku-010379",
@@ -334923,11 +334898,6 @@
    "id": "fuboku-010451",
    "author_ocr": "三範位宗從",
    "text": "たつねつゝいく田のいけに玉藻かるそてより秋の露も"
-  },
-  {
-   "id": "fuboku-010456",
-   "author_ocr": "智法師經",
-   "text": "冬ふかみはこの池邊をあさ行けはこほりのかゝみ見ぬ"
   },
   {
    "id": "fuboku-010463",
@@ -336985,11 +336955,6 @@
    "text": "あかつきや小島かいそのまつ風にころもかさねよゆら"
   },
   {
-   "id": "fuboku-011344",
-   "author_ocr": "仲卿擧",
-   "text": "いさこ踏み見にこそ來つれいるかたや夕日のうらのあ"
-  },
-  {
    "id": "fuboku-011345",
    "author_ocr": "",
    "text": "來ても問へかへるとおもへは下紐のゆふひの浦の貝も"
@@ -337153,6 +337118,11 @@
    "id": "fuboku-011456",
    "author_ocr": "勢家集",
    "text": "年經ともいつも我こそわすれすのはま千鳥とはなきわ"
+  },
+  {
+   "id": "fuboku-011458",
+   "author_ocr": "兼家集",
+   "text": "君かため八千代の數をためしにてからさきのはまに千"
   },
   {
    "id": "fuboku-011464",
@@ -337970,6 +337940,11 @@
    "text": "かこやまの瀧のこほりもとけなくによし野の峯そ雪き"
   },
   {
+   "id": "fuboku-012036",
+   "author_ocr": "俊賴",
+   "text": "よしの河いはの井せきにわきかへり玄らゆふ花や瀧の"
+  },
+  {
    "id": "fuboku-012038",
    "author_ocr": "",
    "text": "むかしより人のいひくる老人のわかゆてふ水そなにお"
@@ -338535,11 +338510,6 @@
    "text": "とやかへりぬる、おきなはの、たゝひとすちに"
   },
   {
-   "id": "fuboku-012448",
-   "author_ocr": "俊光",
-   "text": "出はなるひらかのみたか立かへり親のためにはわしも"
-  },
-  {
    "id": "fuboku-012449",
    "author_ocr": "朝僧正權",
    "text": "かくもこそはとやと猶もいはれけれ八幡のみやに鈴た"
@@ -338828,6 +338798,11 @@
    "id": "fuboku-012730",
    "author_ocr": "",
    "text": "水そこの玉にましれるいそ貝のかたこひのみにとしは"
+  },
+  {
+   "id": "fuboku-012740",
+   "author_ocr": "俊賴",
+   "text": "はるかせになみやをりけむみちのくのまかきの玄まの"
   },
   {
    "id": "fuboku-012753",
@@ -340255,11 +340230,6 @@
    "text": "山人のたよりなりとも岡邊なる玄ひのこやては折すも"
   },
   {
-   "id": "fuboku-013617",
-   "author_ocr": "後光明峰寺入道攝政",
-   "text": "ときすくる玄ひのさ枝もみえわかすのちせの山につも"
-  },
-  {
    "id": "fuboku-013618",
    "author_ocr": "",
    "text": "秋風にのきはの椎のおちつれはにはにくろいし玄くか"
@@ -341010,16 +340980,6 @@
    "text": "花をみし春のにしきのなこりとて木葉いろつくさくら"
   },
   {
-   "id": "fuboku-014401",
-   "author_ocr": "二條太皇大后宮肥後",
-   "text": "霞さへたえぬけふりにたちそひてはれまもみえぬ玄ほ"
-  },
-  {
-   "id": "fuboku-014404",
-   "author_ocr": "二條太皇大后宮肥後",
-   "text": "おりたちて玄みつの里にすみぬれは夏をはほかにきゝ"
-  },
-  {
    "id": "fuboku-014416",
    "author_ocr": "憤中納言實家〓",
    "text": "大原やせれふのさとの月はみついつかわか身もすむへ"
@@ -341130,11 +341090,6 @@
    "text": "秋のよのあめにまされるおとすなり木のしたかけの庭"
   },
   {
-   "id": "fuboku-014493",
-   "author_ocr": "仲顯卿",
-   "text": "柴の庵のはひりのにはにおく蚊火のけふりうるさきな"
-  },
-  {
    "id": "fuboku-014522",
    "author_ocr": "",
    "text": "さよふけてまとおしあくるうたゝねにまくらすゝしき"
@@ -341180,6 +341135,11 @@
    "text": "今宵さへ事玄けしとて逢ことをちかへやりとのたてな"
   },
   {
+   "id": "fuboku-014547",
+   "author_ocr": "權中納言定賴〓",
+   "text": "ひとりのみ有明の月のやまのはにいるまてさヽぬ眞木"
+  },
+  {
    "id": "fuboku-014548",
    "author_ocr": "朝俊賴",
    "text": "誰しかもくひなゝらては叩くへき黑戶のみとをひまゑ"
@@ -341208,11 +341168,6 @@
    "id": "fuboku-014580",
    "author_ocr": "朝臣爲買",
    "text": "わかやとは秋のあはれをこめかほにかきねの山に鹿そ"
-  },
-  {
-   "id": "fuboku-014582",
-   "author_ocr": "二條太皇大后宮肥後散木",
-   "text": "草まくらさゝかきうすきあしのやはところせきまて袖"
   },
   {
    "id": "fuboku-014588",
@@ -341383,11 +341338,6 @@
    "id": "fuboku-014722",
    "author_ocr": "み人す",
    "text": "まくらなるをふちのまゆみ見るときそ君か手風はいと"
-  },
-  {
-   "id": "fuboku-014723",
-   "author_ocr": "師法賢林",
-   "text": "いかにせんよしきの弓のともすれはひきはなちつゝあ"
   },
   {
    "id": "fuboku-014724",
@@ -342135,6 +342085,11 @@
    "text": "高砂やこきのくふねもうちむれて風やすけなるなみの"
   },
   {
+   "id": "fuboku-015356",
+   "author_ocr": "人",
+   "text": "松浦船みたれほりえのみをはやみかちとる間なく思ほ"
+  },
+  {
    "id": "fuboku-015365",
    "author_ocr": "躬同恒",
    "text": "秋風にまかせてせとをわたるかなすまのうらはのあま"
@@ -342248,6 +342203,11 @@
    "id": "fuboku-015439",
    "author_ocr": "朝俊光",
    "text": "こき出るとまりの舟のいかりなはへにくりかくる聲き"
+  },
+  {
+   "id": "fuboku-015440",
+   "author_ocr": "俊賴",
+   "text": "難波かたつなてになひくあしのほのうらやましくも立"
   },
   {
    "id": "fuboku-015442",
@@ -342930,11 +342890,6 @@
    "text": "はせを葉やいかなる風をいたむらん秋のこゝろそ色に"
   },
   {
-   "id": "fuboku-015773",
-   "author_ocr": "俊成痛",
-   "text": "玄つかなる庵を玄めて入ねれはひとかたならぬひかり"
-  },
-  {
    "id": "fuboku-015775",
    "author_ocr": "西行",
    "text": "ふかきやま心の月しすみぬれはかゝみによものさとり"
@@ -343148,6 +343103,11 @@
    "id": "fuboku-015859",
    "author_ocr": "",
    "text": "玄きみつむ竹の花籠のはかなきもまことの道にいらさ"
+  },
+  {
+   "id": "fuboku-015860",
+   "author_ocr": "俊賴",
+   "text": "求むるにゑたかふ法のたまなれはひかりさすかに失ぬ"
   },
   {
    "id": "fuboku-015863",
@@ -343625,6 +343585,11 @@
    "text": "いにしへのきたの翁もある物をなとあやにくに世をな"
   },
   {
+   "id": "fuboku-016107",
+   "author_ocr": "俊賴",
+   "text": "ゑらちひく狂の泣屋に年ふりていか見にましはためら"
+  },
+  {
    "id": "fuboku-016108",
    "author_ocr": "朝實",
    "text": "あさ露をひさしき物と思ふ世にほとけのあにゝいかて"
@@ -343708,11 +343673,6 @@
    "id": "fuboku-016133",
    "author_ocr": "同家知",
    "text": "世中はいとけなきこのおもきらひみしかなきにはねこ"
-  },
-  {
-   "id": "fuboku-016134",
-   "author_ocr": "俊光",
-   "text": "ひとすちにあるものとのみ綠子のかゝみの影をとるか"
   },
   {
    "id": "fuboku-016135",
@@ -344100,6 +344060,11 @@
    "text": "うなゐこがすさみに鳴すむきふえの聲におとろく夏の"
   },
   {
+   "id": "fuboku-016315",
+   "author_ocr": "俊賴",
+   "text": "えのよとにみそ貝拾ふうなゐこかたはふれにたに問ふ"
+  },
+  {
    "id": "fuboku-016316",
    "author_ocr": "家卿",
    "text": "いまはさはこひのやつこの行末もたのむみおやの神に"
@@ -344113,6 +344078,11 @@
    "id": "fuboku-016320",
    "author_ocr": "實臣",
    "text": "おしてるや千重の白浪わけし人わか玄きしまにいかて"
+  },
+  {
+   "id": "fuboku-016321",
+   "author_ocr": "俊賴",
+   "text": "唐人は玄かのをしまにふなてしてなかしまつらしいた"
   },
   {
    "id": "fuboku-016337",
@@ -344240,6 +344210,11 @@
    "text": "もろ人もちよのみかけにやとしめてとはにあひみん松"
   },
   {
+   "id": "fuboku-016403",
+   "author_ocr": "俊賴",
+   "text": "たむけくさ玄けき玉えにそなれ松よにひさしきも君か"
+  },
+  {
    "id": "fuboku-016405",
    "author_ocr": "星家行位從二",
    "text": "四の海をたゝてのなかに照すてふ君やくもらぬかゝみ"
@@ -344323,11 +344298,6 @@
    "id": "fuboku-016451",
    "author_ocr": "",
    "text": "たのむかなその名も太らぬみ山木にゑる人えたる松と"
-  },
-  {
-   "id": "fuboku-016452",
-   "author_ocr": "俊光",
-   "text": "露ふかきのちのさゝ原夜をこめて点のゝめはらひいつ"
   },
   {
    "id": "fuboku-016453",
@@ -345150,6 +345120,6 @@
   "yaku": 0,
   "editions": 1,
   "updated": "2026-10-26",
-  "updated_at": "2026-10-26T09:59:01+09:00"
+  "updated_at": "2026-10-26T10:01:16+09:00"
  }
 }
