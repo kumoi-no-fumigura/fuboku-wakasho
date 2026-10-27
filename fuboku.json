@@ -5,7 +5,12 @@
  "yomi": "ふぼくわかしょう",
  "category": "私撰集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "私撰集（類題和歌集）",
+  "era": "延慶3年（1310）頃",
+  "author": "藤原長清 撰",
+  "desc": "万葉集以来の歌から、勅撰集に入らない歌を中心に一万七千首余りを題ごとに集めた類題集。"
+ },
  "editions": [
   {
    "pid": "991240",
